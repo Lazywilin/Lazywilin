@@ -2,6 +2,8 @@
 
 I work for an Organization known as The Navaan Foundation, from editing wiki, launching gifs and patching wiki infrastructure 
 
+<img align="right" src="https://avatars.githubusercontent.com/u/99087761?v=4" width="250" />
+
 **Languages**  
 `C++` `Java` `LUA`
 
