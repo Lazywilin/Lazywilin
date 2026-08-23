@@ -16,7 +16,7 @@ I work for an Organization known as The Navaan Foundation, from editing wiki, la
 
 **Currently working on**  
 - [Navaan Foundation Web](https://navaan.org) - `Website`
-- [WiKipedia](https://en.wikipedia.org/wiki/User:Lazywilin)
+- [WiKipedia](https://en.wikipedia.org/wiki/User:Lazywilin) - `Account`
 - [Navaan Wiki](https://en.wikipedia.org/wiki/Draft:Navaan_Foundation) - A wikipedia related to Navaan Founation
 
 **Contact**  
