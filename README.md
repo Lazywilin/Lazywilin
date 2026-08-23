@@ -15,8 +15,8 @@ I work for an Organization known as The Navaan Foundation, from editing wiki, la
 ![Laywilin](https://github-readme-stats-fast.vercel.app/api?username=Lazywilin&show_icons=true&theme=dark)
 
 **Currently working on**  
-- [N/a](N/a) - `Unknown`
-- Comms - launching soon
+- [Navaan Foundation Web](https://navaan.org) - `Website`
+- [WiKipedia](https://en.wikipedia.org/wiki/User:Lazywilin)
 - [Navaan Wiki](https://en.wikipedia.org/wiki/Draft:Navaan_Foundation) - A wikipedia related to Navaan Founation
 
 **Contact**  
